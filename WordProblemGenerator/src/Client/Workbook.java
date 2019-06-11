@@ -148,6 +148,10 @@ public class Workbook {
             default:
                 break;
         }
+
+        // Shuffle Problem list for Solving Random Problems.
+        Collections.shuffle(problems);
+
         return;
     }
 

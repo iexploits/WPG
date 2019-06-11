@@ -1,0 +1,17 @@
+
+V
+squid:S106A"9Replace this use of System.out or System.err by a logger.(‘ÓÆŞ8ÖÇ ´-
+V
+squid:S1068"9Replace this use of System.out or System.err by a logger.(Îœò—8Öîµ¢´-
+V
+squid:S1069"9Replace this use of System.out or System.err by a logger.(ÚÂâ8¶¶ ´-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•İÈ‚ıÿÿÿÿ
+ksquid:UnusedPrivateMethodÆ"9Remove this unused private "getRandomProblemType" method.(Èôé½øÿÿÿÿ8ßõÖ£´-
+|squid:S1192‰"XDefine a constant instead of duplicating this literal " Successfully generate " 4 times.(ÒİÊÿÿÿÿÿ8»¥Û£´-
+:squid:S3626—"Remove this redundant jump.(ûÁİ…8á‡ß£´-
+=squid:S2119Í"Save and re-use this "Random".(¡Å”¦8ßõÖ£´-
+V
+squid:S106H"9Replace this use of System.out or System.err by a logger.(‘ÓÆŞ8Ì€É ´-
+¡squid:S1192;"‚Define a constant instead of duplicating this literal "-----------------------------------------------------------------" 4 times.(–ĞÔø8øæ¡´-
+V
+squid:S106O"9Replace this use of System.out or System.err by a logger.(‘ÓÆŞ8¤Ì ´-

@@ -1,0 +1,9 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼´Õé
+psquid:S001176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ÊÂ8˜÷ ´-
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹‰êU8ø¥è ´-
+psquid:S001176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ÊÂ8˜÷ ´-
+Hsquid:S1659"%Declare "person2" on a separate line.(Â®î×úÿÿÿÿ8ôŞÙ†´-
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹‰êU8ø¥è ´-
+<squid:S21198"Save and re-use this "Random".(¡Å”¦8˜÷ ´-
+Gsquid:S1659"$Declare "param2" on a separate line.(Â¿ Éıÿÿÿÿ8ìÔù ´-
